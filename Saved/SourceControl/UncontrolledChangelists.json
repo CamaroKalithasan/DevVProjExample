@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/CurrentMap_HLOD0_Instancing.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/5/05/1WHLHI1Q624W73HT7TNTN9.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalObjects__/CurrentMap/2/1A/P3874OMB8DWDT5Z9EGW21W.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalObjects__/CurrentMap/2/0D/LYR1R7VZ102BDAIDKOJIMP.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalObjects__/CurrentMap/E/SP/315UWC8FTO5YWHWD5PDO4B.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalObjects__/CurrentMap/F/3I/0XMJ826QV7LNOIQSWLSZIV.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalObjects__/CurrentMap/3/WD/2M030C05FI5QFLLVTDAQ5M.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/2/ZG/D1Q07XD6W508ZTMNBNKY91.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/8/4I/VDJGIB58GI9DYC4VR59GXX.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/1/E4/KTK220YXK5SU8LBWOHJPOD.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/6/5N/JLLXEL2Y2L6ABR5TD4Z3B3.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/B/FW/HDQTP7LMROKDGWVVRP2WHY.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/7/BE/2KBYXLW91UCUSIIXC6E0YW.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/8/UY/BSDWP4VWUAOJQ1127G2PD1.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/7/OZ/63C29QTUSZMXZ44XHQVW9V.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/3/A0/M2ZJI5URTMANNKG17K02JP.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/CurrentMap.umap",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Maps/BlueprintMain.umap",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Actors/BP_BaseCharacter.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Actors/BP_Player.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Core/GameModes/BP_GameMode.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Art/BS_IronSights.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Art/ABP_BaseIronSights.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/BindTests/BP_TestActor.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Core/Actors/BP_CodePlayer.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Maps/CodeMain.umap",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/DEV5_Starter/SuperGrid/MI_SuperGrid_Default_.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/DEV5_Starter/SuperGrid/MI_SuperGrid_Default.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Core/GameModes/BP_CodeGameMode.uasset",
+				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/Actors/NewBlueprint.uasset"
+			]
+		}
+	]
+}
