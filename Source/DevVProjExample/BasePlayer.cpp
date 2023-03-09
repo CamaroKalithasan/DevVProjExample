@@ -16,4 +16,14 @@ void ABasePlayer::SetupPlayerInputComponent(class UInputComponent* PlayerInputCo
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	PlayerInputComponent->BindAxis("TurnTo", this, &APawn::AddControllerYawInput);
+
+	PlayerInputComponent->BindAxis("MoveForward", this, &ABasePlayer::MoveForward);
+}
+void ABasePlayer::MoveForward(float AxisValue)
+{
+	FRotator ControlRotation = Controller->GetControlRotation();
+	FRotator MakeRotation(0.0f, ControlRotation.Yaw, 0.0f);
+
+	FVector Direction = FRotationMatrix(MakeRotation).GetScaledAxis(EAxis::X);
+	AddMovementInput(Direction, AxisValue);
 }

@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/themo/OneDrive/Documents/GitHub/DevVProjExample/Content/Art/ABP_BaseIronSights.uasset",
+				"C:/Users/themo/OneDrive/Documents/GitHub/DevVProjExample/Content/Actors/BP_BaseProjectile.uasset",
+				"C:/Users/themo/OneDrive/Documents/GitHub/DevVProjExample/Content/Art/M_FlatColor.uasset",
+				"C:/Users/themo/OneDrive/Documents/GitHub/DevVProjExample/Content/Maps/CodeMain.umap",
+				"C:/Users/themo/OneDrive/Documents/GitHub/DevVProjExample/Content/Maps/BlueprintMain.umap",
+				"C:/Users/themo/OneDrive/Documents/GitHub/DevVProjExample/Content/DEV5_Starter/Mannequin/SKEL_Mannequin.uasset",
+				"C:/Users/themo/OneDrive/Documents/GitHub/DevVProjExample/Content/Actors/BP_WeaponBase.uasset",
 				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/CurrentMap_HLOD0_Instancing.uasset",
 				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalActors__/CurrentMap/5/05/1WHLHI1Q624W73HT7TNTN9.uasset",
 				"C:/Users/camth/Documents/Unreal Projects/DevVProjExample/Content/__ExternalObjects__/CurrentMap/2/1A/P3874OMB8DWDT5Z9EGW21W.uasset",

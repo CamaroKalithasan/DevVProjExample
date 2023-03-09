@@ -21,4 +21,6 @@ public:
 
 	// Called to bind functionality to input
 	void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	void MoveForward(float AxisValue);
 };
