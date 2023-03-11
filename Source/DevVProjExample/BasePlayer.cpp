@@ -3,12 +3,16 @@
 
 #include "BasePlayer.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "GameFramework/Pawn.h"
 
 ABasePlayer::ABasePlayer()
 {
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArm"));
 	SpringArm->SetupAttachment(RootComponent);
 	SpringArm->bUsePawnControlRotation = true;
+
+	// Set the location of the SpringArm relative to the character
+	SpringArm->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f));
 }
 
 void ABasePlayer::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
